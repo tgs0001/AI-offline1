@@ -1,6 +1,7 @@
 #include<iostream>
 #include<fstream>
 
+//slightly changed
 using namespace std;
 struct node
 {
